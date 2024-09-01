@@ -1,0 +1,16 @@
+Statistics for Test Group 25 with red baseline
+Control Group:
+  Mean: 0.12
+  Std Dev: 0.81
+  Min: 0.00
+  Max: 25.91
+  Range: 25.91
+
+Treatment Group:
+  Mean: 0.20
+  Std Dev: 1.43
+  Min: 0.00
+  Max: 26.90
+  Range: 26.90
+
+ROI Information:

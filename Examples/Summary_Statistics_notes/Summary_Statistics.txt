@@ -1,0 +1,25 @@
+Summary of All Group Statistics
+========================================
+
+Red Baseline:
+Group Control_25:
+  Mean: 0.12
+  Standard Deviation: 0.81
+  Peak: 25.91
+
+Group Test_25:
+  Mean: 0.20
+  Standard Deviation: 1.43
+  Peak: 26.90
+
+Green Baseline:
+Group Control_25:
+  Mean: 0.16
+  Standard Deviation: 0.10
+  Peak: 1.18
+
+Group Test_25:
+  Mean: 0.25
+  Standard Deviation: 1.23
+  Peak: 25.38
+
